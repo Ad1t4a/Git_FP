@@ -1,0 +1,191 @@
+    1  ls
+    2  cd node-v20.12.2-linux-x64
+    3  ls
+    4  cat README.md
+    5  cd Downloads
+    6  ls
+    7  dpkg-deb node-
+    8  mkdir ~/projects
+    9  cd ~/projects
+   10  ls
+   11  cd node-v20.12.2-linux-x64
+   12  ls
+   13  nvm install 20
+   14  sudo apt install nvm
+   15  nvm
+   16  sudo apt install nvm
+   17  clear
+   18  node
+   19  cd ..
+   20  cd..
+   21  ls
+   22  node
+   23  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
+   24  nvm install 20
+   25  sudo apt install nvm
+   26  ls
+   27  rm -r node-v20.12.2-linux-x64 node-v20.12.2-linux-x64.tar.xz
+   28  ls
+   29  cd ..
+   30  cd ~/Downloads
+   31  ls
+   32  nvm -v
+   33  sudo apt install nvm
+   34  sudo apt install npm
+   35  export PATH=/opt/node-v18.14.2-linux-s390x/bin:$PATH
+   36  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
+   37  ~
+   38  nvm
+   39  export NVM_DIR="$([ -z "${XDG_CONFIG_HOME-}" ] && printf %s "${HOME}/.nvm" || printf %s "${XDG_CONFIG_HOME}/nvm")"\n[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"\n
+   40  source ~/.bashrc
+   41  y
+   42  ls
+   43  cat README.md
+   44  npm run dec
+   45  npm run dev
+   46  ls
+   47  cat README.md
+   48  npx run convex dev
+   49  ls
+   50  cd convex
+   51  ls
+   52  vim auth.config.ts
+   53  ls
+   54  cd ..
+   55  ls
+   56  find .env.local
+   57  find -f .env.local
+   58  find -v .env.local
+   59  ls
+   60  find --help
+   61  cd components
+   62  ls
+   63  cd ..
+   64  ls
+   65  cd public
+   66  ls
+   67  ..
+   68  vim .env.local
+   69  ls
+   70  npx run convex dev
+   71  npm run dev
+   72  npm install mysql\n
+   73  vim ex.js
+   74  ls
+   75  cd projects
+   76  ls
+   77  ls -al
+   78  clear
+   79  vim ex.js
+   80  ls
+   81  cd Documents
+   82  ls
+   83  mkdir WTWS_lab
+   84  ls
+   85  cd WTWS_lab
+   86  vim FAQ_page.html
+   87  fg
+   88  ls
+   89  grep * FAQ_page.html
+   90  grep * FAQ_page.html>Blog.html
+   91  ls
+   92  vim Blog.html
+   93  which git
+   94  git config --global --list
+   95  git config --global user.name
+   96  git config --global user.name "aditya"
+   97  git config --global --list
+   98  git config --global user.email "adityasunilaa1@gmail.com"
+   99  git config --global --list
+  100  pwd
+  101  cd /home
+  102  ls
+  103  ssh-keygen -t ed25519 -C adityasunilaa1@gmail.com
+  104  pwd
+  105  cd kali
+  106  ls
+  107  ssh-keygen -t ed25519 -C adityasunilaa1@gmail.com
+  108  pwd
+  109  ls
+  110  ls -al
+  111  cd .ssh
+  112  ls
+  113  cat id_ed25519
+  114  cat id_ed25519.pub
+  115  ls -al
+  116  ssh -T git@github.com
+  117  cd ~
+  118  ls Documents
+  119  cd Documents
+  120  mkdir DevOps_lab
+  121  cd DevOps_lab
+  122  ls
+  123  mkdir Project1
+  124  cd Project1
+  125  touch .gitignore
+  126  ls
+  127  ls .al
+  128  ls -al
+  129  cd ..
+  130  mv Project1
+  131  mv Project1 Git_Demo
+  132  ls
+  133  cd Git_Demo
+  134  ls
+  135  ls -al
+  136  touch Hello.txt
+  137  touch Hello.js
+  138  touch Hello.py
+  139  touch Hello.md
+  140  ls
+  141  touch Hello.json
+  142  ls
+  143  git init
+  144  la -al
+  145  git status
+  146  vim Hello.txt
+  147  git add .
+  148  git status
+  149  git commit -m "Commit isn't hard maintaining is" 
+  150  git log --oneline
+  151  git log
+  152  wc 7c9ff80b8b35ca79a9bc5bf293c44606d5ded395
+  153  git --help
+  154  ls -al
+  155  git diff
+  156  ls
+  157  vim hello.js
+  158  git diff
+  159  git add .
+  160  git commit hello.js 
+  161  git commit hello.js -m "updated js"
+  162  git diff
+  163  git diff --staged
+  164  ls
+  165  rm -r hello.js
+  166  vim Hello.js
+  167  git add Hello.js
+  168  git commit Hello.js -m "Updated Hello.js"
+  169  git diff
+  170  git diff --staged
+  171  vim Hello.js
+  172  git add Hello.js
+  173  git diff --staged
+  174  git log --onelined
+  175  git log --oneline
+  176  git commit Hello.js -m "Updated Hello.js again"
+  177  git diff 
+  178  git diff 999e337
+  179  git restore Hello.js
+  180  cat Hello.js
+  181  git restore --staged Hello.js
+  182  cat Hello.
+  183  cat Hello.js
+  184  git log --oneline
+  185  git restore Hello.js
+  186  cat Hello.
+  187  cat Hello.js
+  188  git reset Hello.js 3ef0ea2
+  189  cat hello.js
+  190  cat Hello.js
+  191  git status
